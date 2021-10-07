@@ -1,5 +1,9 @@
-# Gyoogle: t.ly/gyoogle
+# [Gyoogle](https://t.ly/gyoogle)
 Gyoooooooooooogle
+
+## URL
+- `Shorten` https://t.ly/gyoogle
+- `Original` https://gyoooogle.netlify.app/
 
 ## Overview
  - This is Gyoogle using Google's search engine
