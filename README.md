@@ -11,4 +11,4 @@
 
 ## License
  - `Site` [MIT License](LICENSE)
- - `Icon` Google logo is trademark of Google LLC.
+ - `Icon` [Google logo is trademark of Google LLC.](https://about.google/brand-resource-center/brand-elements/#google-logo)
