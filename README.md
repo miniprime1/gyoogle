@@ -1,4 +1,4 @@
-# Gyoogle
+# Gyoogle: t.ly/gyoogle
 Gyoooooooooooogle
 
 ## Overview
