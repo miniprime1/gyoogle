@@ -3,8 +3,8 @@ Gyoooooooooooogle
 
 ## URL
  - `Main` https://gyoogle.ga/
- - `Shorten` https://t.ly/gyoogle/
  - `Host` https://gyoooogle.netlify.app/
+ - `Shorten` https://t.ly/gyoogle/
 
 ## Overview
  - This is Gyoogle using Google's search engine
