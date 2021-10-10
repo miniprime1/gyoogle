@@ -2,8 +2,9 @@
 Gyoooooooooooogle
 
 ## URL
-- `Shorten` https://t.ly/gyoogle
-- `Original` https://gyoooogle.netlify.app/
+ - `Main` https://gyoogle.ga/
+ - `Shorten` https://t.ly/gyoogle/
+ - `Host` https://gyoooogle.netlify.app/
 
 ## Overview
  - This is Gyoogle using Google's search engine
