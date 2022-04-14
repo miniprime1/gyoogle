@@ -1,4 +1,4 @@
-# [Gyoogle](https://t.ly/gyoogle)
+# [Gyoogle](https://gyoooogle.netlify.app/)
 Gyoooooooooooogle
 
 ## URL
